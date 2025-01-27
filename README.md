@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Osvaldo Villalba!
+# 👋 ¡Hola, soy [Osvaldo Villalba](https://valdoyking.github.io/portafolio/)!
 
 Soy **Ingeniero en Gestión y Desarrollo de Software** con pasión por crear soluciones innovadoras en el desarrollo de software. Mi experiencia abarca proyectos **web**, **backend** y **móvil**, siempre buscando entregar productos de alta calidad.
 
