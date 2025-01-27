@@ -1,7 +1,5 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/ValdoYakitorys"><img src="https://api.daily.dev/devcards/d7d981c7369d4f7facfacf97258c33c5.png?r=x4x" width="400" alt="Osvaldo Villalba Mendoza's Dev Card"/></a>
-<!--
-**ValdoYKING/ValdoYKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**ValdoYKING/ValdoYKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
